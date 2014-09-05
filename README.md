@@ -1,0 +1,1 @@
+Simple Struts hello world.
